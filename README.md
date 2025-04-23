@@ -100,9 +100,11 @@ To ensure transparency, we used SHAP (SHapley Additive exPlanations) to visualiz
 🔍 SHAP Summary Plot
 
 **Mean contribution features** 
+
 <img src="figure/Shap1.png" alt="SHAP Summary Plot" width="600"/>
 
 **Global value of each features** 
+
 <img src="figure/shap2.png" alt="SHAP Summary Plot" width="600"/>
 
 Features like **Glucose, BMI, and Pregnancies** had the highest impact on predictions.
